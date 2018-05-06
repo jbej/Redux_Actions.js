@@ -1,0 +1,24 @@
+{
+  "name": "Redux_Actions.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "actions.js",
+  "dependencies": {
+    "uuid": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbej/Redux_Actions.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbej/Redux_Actions.js/issues"
+  },
+  "homepage": "https://github.com/jbej/Redux_Actions.js#readme"
+}
